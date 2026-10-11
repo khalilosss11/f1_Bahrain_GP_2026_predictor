@@ -1,5 +1,3 @@
-# f1_Bahrain_GP_2026_predictor
-XGBoost model that predicts the 2026 Bahrain Grand Prix (held at Sepang, Malaysia) winner from qualifying, recent form and circuit history (Kaggle + FastF1 data).
 # F1 Race-Winner Predictor: 2026 Bahrain Grand Prix (held at Sepang, Malaysia)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khalilosss11/f1_Bahrain_GP_2026_predictor/blob/main/bahrain_gp_predictor.ipynb)
