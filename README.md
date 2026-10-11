@@ -1,7 +1,5 @@
 # F1 Race-Winner Predictor: 2026 Bahrain Grand Prix (held at Sepang, Malaysia)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khalilosss11/f1_Bahrain_GP_2026_predictor/blob/main/Bahrain_GP_2026_predictor.ipynb)
-
 A machine-learning model that estimates each driver's chance of winning the 2026 Bahrain Grand Prix from qualifying, recent form, circuit history and championship standing.
 
 **Context:** the race kept the Bahrain Grand Prix name but was moved to the **Sepang International Circuit in Malaysia** (2-4 October 2026) because of the regional situation. Circuit history is therefore built from Sepang's old Malaysian GP results, not from Bahrain.
